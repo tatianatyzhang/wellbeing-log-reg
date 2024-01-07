@@ -12,7 +12,7 @@ We are predicting whether or not a student requires an additional well-being con
 
 Credit:
 This logistic regression model utilizes the "Student Stress Factors: A Comprehensive Analysis" dataset. Full credit for the dataset goes to its original creator(s) and Kaggle. Details of the dataset are as follows:
-**Dataset Name:** Student Stress Factors: A Comprehensive Analysis
-**Dataset URL:** https://www.kaggle.com/datasets/rxnach/student-stress-factors-a-comprehensive-analysis/data
-**Creator(s):** Chhabii
+**Dataset Name:** Student Stress Factors: A Comprehensive Analysis; 
+**Dataset URL:** https://www.kaggle.com/datasets/rxnach/student-stress-factors-a-comprehensive-analysis/data; 
+**Creator(s):** Chhabii; 
 **Source:** Kaggle
